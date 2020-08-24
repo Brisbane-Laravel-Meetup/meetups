@@ -1,15 +1,13 @@
 # Brisbane Laravel Meetup 🐘
 
-This is where you can request a talk topic, or propose a talk you would like to present.
-
-**⭐️Star this repo to stay up to date with what's happening in the community ⭐️**
+This is where you can request a talk topic, or propose a talk you would like to present at [our meetup](https://www.meetup.com/meetup-group-FtyKvezu).
 
 ## Community
 
 * Do you want to see a talk? 
 * Did you have a talk you wanted to give?
 
-[Contribute to our community](https://github.com/Brisbane-Laravel-Meetup/meetups/issues/new)!
+[Contribute to our meetup](https://github.com/Brisbane-Laravel-Meetup/meetups/issues/new)!
 
 ## Past Talks
 
