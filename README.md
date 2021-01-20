@@ -20,3 +20,7 @@ The Brisbane Laravel Meetup is sponsored by iSeekplant - providing the venue, th
 <img src="/images/iseekplant.svg" alt="iseekplant-logo" width="200">
 
 [iSeekplant - Australia's leading online marketplace for construction services and plant machinery hire](https://www.iseekplant.com.au/)
+
+## Code of conduct
+
+Please view our code of conduct [here](https://github.com/Brisbane-Laravel-Meetup/meetups/code-of-conduct.md)
