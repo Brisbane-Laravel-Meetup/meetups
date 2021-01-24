@@ -11,7 +11,11 @@ This is where you can request a talk topic, or propose a talk you would like to 
 
 ## Past Talks
 
-We haven't had our first meetup yet, however we'll include links to past talks once we have them!
+**January 2021**
+
+* [Feature Flagging presented by Greg Skerman](https://youtu.be/sMYmZjfqPN0?t=277)
+* [How to Build a Service Container From Scratch presented by Jess Archer](https://youtu.be/sMYmZjfqPN0?t=3044)
+* [Using Inertia to Supercharge Server-Rendered Application presented by James Bannister](https://youtu.be/sMYmZjfqPN0?t=5291)
 
 ## Sponsors
 
